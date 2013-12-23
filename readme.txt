@@ -1,5 +1,7 @@
 Automatic panorama maker in matlab
 
+Results and discussion in wiki
+
 
 All images must be singles (im2single). 
 
